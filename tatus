@@ -1,0 +1,8 @@
+user.name=vvijayverma
+user.email=vvijayverma91@gmail.com
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/vvijayverma/project-components.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
