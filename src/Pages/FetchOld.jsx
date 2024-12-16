@@ -43,7 +43,7 @@ const FetchOld = () => {
     <div className="flex flex-col gap-12">
       {data?.data?.map((item) => (
         <li key={item.id} className="list-none">
-          <NavLink to={`/rq/${item.id}`}>
+          <NavLink to={`/trad/${item.id}`}>
             <p>{item.id}</p>
             <p>{item.title}</p>
             <p>{item.body}</p>

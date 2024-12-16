@@ -99,7 +99,7 @@ const router = createBrowserRouter([
         ),
       },
       {
-        path: "/rq/:id",
+        path: "/trad/:id",
         element: (
           <Suspense>
             <ProtectedRoute>
